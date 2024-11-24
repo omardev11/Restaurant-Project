@@ -14,7 +14,7 @@ This project is a full-stack restaurant management system designed to handle var
 ### **Front-End**
 - Based on a downloaded HTML/CSS template, customized to:
   - Dynamically render menu items and chefs' information using JavaScript.
-  - Display order and customer data retrieved from the API.
+  - Display order data retrieved from the API.
   - Handle user interactions for placing orders and logging in/registering.
 - Adjustments include adding JavaScript functions and integrating the front-end with the RESTful API.
 
@@ -31,6 +31,7 @@ This project is a full-stack restaurant management system designed to handle var
 ## **Installation**
 ### Prerequisites
 - Visual Studio
+- Visual code
 - SQL Server
 - A web browser
 
